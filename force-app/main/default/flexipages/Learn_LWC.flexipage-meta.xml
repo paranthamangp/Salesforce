@@ -5,10 +5,6 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <name>region2</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
         <itemInstances>
             <componentInstance>
                 <componentName>example2HelloWorld</componentName>
@@ -109,6 +105,10 @@
                 <componentName>examplea20EventParent</componentName>
             </componentInstance>
         </itemInstances>
+        <name>region2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
         <itemInstances>
             <componentInstance>
                 <componentName>examplea21PubsubSiblingOne</componentName>
@@ -122,6 +122,11 @@
         <itemInstances>
             <componentInstance>
                 <componentName>examplea23LmsLwcComponent</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>LMSAuraComponent</componentName>
             </componentInstance>
         </itemInstances>
         <itemInstances>
